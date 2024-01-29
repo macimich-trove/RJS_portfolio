@@ -1,8 +1,9 @@
+#git@github.com:macimich-trove/RJS_portfolio.git
 #!/usr/bin/env python
 #Implement schema for the porfolio site
 #Services, Components, UI functionality, Daemons, DB_SCHEMA logging MISC data  
 
-
+#Use node js file structure
 
 
 
